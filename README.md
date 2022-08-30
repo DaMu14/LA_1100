@@ -9,7 +9,7 @@ LA_1100
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.2     | Heute habe ich den Zahlen generator fast beendet ich muss nur noch ein paar Details ändern.  |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -22,13 +22,13 @@ Wir müssen einen random number guesser programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   muss          |   Q   | Als Informatiker möchte ich ein Programm das funktioniert, damit viele Spieler mein Spiel spielen |                       
-| 2    |   muss          |  F    | Als Informatiker möchte ich ein Programm programmieren, damit eine zufällige Zahl generiert werden kann | 
-| 3    |   kann          |   Q   | Als Spieler möchte ich ein einfaches spiel, damit das Spiel viele Spieler spielen können |
-|  4   |   muss          |  F    | Als Spieler möchte ich ein spannendes Spiel, damit ich meine Zeit vertreiben kann |
-|  5   |   muss          |    Q  | Als Spieler möchte ich nicht das die Zufallszahl veraten wird, damit das Spiel auch spass macht |
-|  6   |   muss          |    F  | Als Spieler möchte ich das die herausgefundene Zahl in der nächsten Runde nicht vorkommt, damit nicht immer die gleiche Zahl ist| 
-| 7    |   muss          |   F    | Als Spieler möchte ich wissen ob die generierte Zahl grösser oder kleiner ist, damit ich näher an die generierte Zahl komme |
+| 1    |   muss          |   Q  | Als Informatiker möchte ich ein Programm das funktioniert, damit viele Spieler mein Spiel spielen |                       
+| 2    |   muss          |  F   | Als Informatiker möchte ich ein Programm programmieren, damit eine zufällige Zahl generiert werden kann | 
+| 3    |   kann          |   Q  | Als Informatiker möchte ich ein einfaches spiel, damit das Spiel viele Spieler spielen können |
+|  4   |   muss          |  F   | Als Spieler möchte ich ein spannendes Spiel, damit ich meine Zeit vertreiben kann |
+|  5   |   muss          |    Q | Als Spieler möchte ich nicht das die Zufallszahl veraten wird, damit das Spiel auch spass macht |
+|  6   |   muss          |    F | Als Spieler möchte ich das die herausgefundene Zahl in der nächsten Runde nicht vorkommt, damit nicht immer die gleiche Zahl ist| 
+| 7    |   muss          |   F  | Als Spieler möchte ich wissen ob die generierte Zahl grösser oder kleiner ist, damit ich näher an die generierte Zahl komme |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -49,8 +49,8 @@ Wir müssen einen random number guesser programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | Ich       |Random zahl Generator programmieren|20min |
+|      |       | Ich       |              |               |
 
 Total: 
 
@@ -66,7 +66,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |  30.08.22     | Ich          |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
