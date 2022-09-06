@@ -41,8 +41,9 @@ Wir müssen einen random number guesser programmieren.
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![number guesser](https://user-images.githubusercontent.com/110892840/188601917-2062f32c-3ba7-4bdb-b12e-35ae1f841b40.png)
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+ 
 
 ## 2 Planen
 
