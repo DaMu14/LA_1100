@@ -1,8 +1,5 @@
-# fiktiver-Okto-Lampe
 LA_1100
 # Projekt-Dokumentation
-
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 ✍️ Ihr Gruppenname und Müller
 
@@ -37,7 +34,9 @@ Wir müssen einen random number guesser programmieren.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Programm wird gestartet | drücke auf Start|Programm öffnet sich|
-| 1.2  | Programm wählt random Zahl |Zahl generieren |Zahl wird gespeichert |
+| 3.2  | Programm wählt random Zahl |Zahl generieren |Zahl wird gespeichert |
+|1.3   | Spieler gibt Zahl ein | Zahl| Zahl richtig oder falsch|
+|1.4   | 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -50,7 +49,8 @@ Wir müssen einen random number guesser programmieren.
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | Ich       |Random zahl Generator programmieren|20min |
-|      |       | Ich       |              |               |
+|      |       | Ich       |Stopuhr programmieren              |    60min |
+|
 
 Total: 
 
@@ -66,7 +66,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  30.08.22     | Ich          |               |                   |
+| 1.A  |  30.08.22     | Ich|               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
