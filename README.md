@@ -1,13 +1,13 @@
 LA_1100
 # Projekt-Dokumentation
 
-✍️ Ihr Gruppenname und Müller
+ Damian Müller
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |   |
-|       | 0.0.2     | Heute habe ich den Zahlen generator fast beendet ich muss nur noch ein paar Details ändern.  |
-|       | 1.0.0   |                                                              |
+|  23.8.22     | 0.0.1   |   |
+|30.8.22     | 0.0.2     | Heute habe ich den Zahlen generator fast beendet ich muss nur noch ein paar Details ändern.  |
+|  6.9.22     | 1.0.0   |  Heute habe ich zum Zahlengenerator noch eine Stoppuhr dazu programmiert,                                                             |
 
 ## 1 Informieren
 
