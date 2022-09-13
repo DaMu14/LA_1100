@@ -81,9 +81,9 @@ Total:
 | ---- | ----- | -------- | ------ |
 | 1.1  | 13.9.22  |  true |   Ich     |
 | 3.2  | 13.9.22      |    true      |Ich        |
-|1.3| 13.9.22| true|
-|1.4|13.9.22|true|
-|1.5|13.9.22|
+|1.3| 13.9.22| true|ich|
+|1.4|13.9.22|true|ich |
+|1.5|13.9.22|diese Zahl ist zu gross|ich|
 |1.6|13.9.22|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
