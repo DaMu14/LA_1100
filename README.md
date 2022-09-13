@@ -84,7 +84,7 @@ Total:
 |1.3| 13.9.22| true|ich|
 |1.4|13.9.22|true|ich |
 |1.5|13.9.22|diese Zahl ist zu gross|ich|
-|1.6|13.9.22|
+|1.6|13.9.22|true|ich |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
