@@ -35,8 +35,10 @@ Wir müssen einen random number guesser programmieren.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Programm wird gestartet | drücke auf Start|Programm öffnet sich|
 | 3.2  | Programm wählt random Zahl |Zahl generieren |Zahl wird gespeichert |
-|1.3   | Spieler gibt Zahl ein | Zahl| Zahl richtig oder falsch|
-|1.4   | Spieler gibt Zahl höher als 100 ein| Zahl > 100| Diese Zahl ist nicht erlaubt|
+|1.3   | Spieler gibt zu grosse Zahl ein | Zahl| Zahl ist zu gross |
+|1.4   |Spieler gibt richtige Zahl ein | Zahl| diese Zahl ist richtig|
+|1.5   | Spieler gibt Zahl höher als 100 ein| Zahl > 100| Diese Zahl ist nicht erlaubt|
+|1.6| Spieler gibt zu kleine Zahl ein |Zahl| diese Zahl ist zu klein|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -55,8 +57,7 @@ Wir müssen einen random number guesser programmieren.
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
+ 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
@@ -78,8 +79,12 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.9.22  |  true |   Ich     |
+| 3.2  | 13.9.22      |    true      |Ich        |
+|1.3| 13.9.22| true|
+|1.4|13.9.22|true|
+|1.5|13.9.22|
+|1.6|13.9.22|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
