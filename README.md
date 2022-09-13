@@ -40,7 +40,7 @@ Wir müssen einen random number guesser programmieren.
 |1.5   | Spieler gibt Zahl höher als 100 ein| Zahl > 100| Diese Zahl ist nicht erlaubt|
 |1.6| Spieler gibt zu kleine Zahl ein |Zahl| diese Zahl ist zu klein|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+ 
 
 ### 1.4 Diagramme
 ![number guesser](https://user-images.githubusercontent.com/110892840/188601917-2062f32c-3ba7-4bdb-b12e-35ae1f841b40.png)
@@ -58,8 +58,7 @@ Wir müssen einen random number guesser programmieren.
 Total: 
 
  
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
+ 
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
@@ -92,11 +91,13 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Zahl zwischen 1-100 eingeben  |  Buchstaben     | nicht möglich  | Programm abgestürzt    |
+| II  |   Zahl zwischen 1-100 eingeben | Zahl mit Punkt     |Zahl nicht möglich |Programm abgestürzt|
+|III|  Zahl zwischen 1-100 eingeben   |Zahl mit ,| Zahl nicht möglich| Programm abgestürzt|
+
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+ 
