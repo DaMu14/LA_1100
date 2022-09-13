@@ -5,9 +5,9 @@ LA_1100
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  23.8.22     | 0.0.1   |   |
+|  23.8.22     | 0.0.1   | Heute habe ich geplant wie ich meinen Zahlengenerator programmiere.  |
 |30.8.22     | 0.0.2     | Heute habe ich den Zahlen generator fast beendet ich muss nur noch ein paar Details ändern.  |
-|  6.9.22     | 1.0.0   |  Heute habe ich zum Zahlengenerator noch eine Stoppuhr dazu programmiert,                                                             |
+|  6.9.22     | 1.0.0   |  Heute habe ich zum Zahlengenerator noch eine Stoppuhr dazu programmiert, der Code funktioniert jetzt ohne Probleme. |
 
 ## 1 Informieren
 
@@ -27,7 +27,7 @@ Wir müssen einen random number guesser programmieren.
 |  6   |   muss          |    F | Als Spieler möchte ich das die herausgefundene Zahl in der nächsten Runde nicht vorkommt, damit nicht immer die gleiche Zahl ist| 
 | 7    |   muss          |   F  | Als Spieler möchte ich wissen ob die generierte Zahl grösser oder kleiner ist, damit ich näher an die generierte Zahl komme |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
