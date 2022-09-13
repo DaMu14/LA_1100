@@ -36,7 +36,7 @@ Wir müssen einen random number guesser programmieren.
 | 1.1  |  Programm wird gestartet | drücke auf Start|Programm öffnet sich|
 | 3.2  | Programm wählt random Zahl |Zahl generieren |Zahl wird gespeichert |
 |1.3   | Spieler gibt Zahl ein | Zahl| Zahl richtig oder falsch|
-|1.4   | 
+|1.4   | Spieler gibt Zahl höher als 100 ein| Zahl > 100| Diese Zahl ist nicht erlaubt|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -51,7 +51,7 @@ Wir müssen einen random number guesser programmieren.
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | Ich       |Random zahl Generator programmieren|20min |
 |      |       | Ich       |Stopuhr programmieren              |    60min |
-|
+|       |      |Ich        |Zahl speichern damit sie nicht in der nächsten Runde vorkommt| 50 min|
 
 Total: 
 
